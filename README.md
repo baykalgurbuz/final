@@ -1,91 +1,91 @@
 [{
 		"name": "Galatasaray",
 		"image": "https://iaftm.tmgrup.com.tr/1627f5/632/314/10/0/569/278?u=https://iftm.tmgrup.com.tr/2018/06/02/galatasaraya-45-milyon-euro-kisitlamasi-1527893995152.jpeg",
-		"phone": "Lider Puanı :72"
+		"phone": "LİDER Puanı :72"
 	},
 	{
-		"name": "Emirhan Aydın",
-		"image": "https://api.androidhive.info/json/images/johnny.jpg",
-		"phone": "+90 (551) 754 30 10"
+		"name": "Fenerbahçe",
+		"image": "https://cdn-amk.sozcu.com.tr/amk-resimler/2018/06/iecrop/fenerbahce-logo-_16_9_1528032804.jpg",
+		"phone": "2.Sırada Puanı :69"
 	},
 	{
-		"name": "Baykal Gürbüz",
-		"image": "https://api.androidhive.info/json/images/tom_cruise.jpg",
-		"phone": "+90 (549) 754 30 90"
+		"name": "Başakşehir",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxTJpFsYNWSDA0LAQ_9ItSSeBJBcLhBPQq2YqKyuIGKFKy8rIT",
+		"phone": "3.Sırada Puanı :69"
 	},
 	{
-		"name": "Leyla Yılmaz",
-		"image": "https://api.androidhive.info/json/images/keira.jpg",
-		"phone": "+90 (541) 784 50 10"
+		"name": "Beşiktaş",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTm0rP_nCFyJO6sQRed6VxvGipFu3okNWSkrwpl1NkC7fNNySFG",
+		"phone": "4.Sırada Puanı :68"
 	},
 	{
-		"name": "Ozan Özcan ",
-		"image": "https://api.androidhive.info/json/images/robert_de.jpg",
-		"phone": "(767) 544-8867"
+		"name": "Trabzonspor",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT72cLMM_9Ci5xbsZdieL8JrIM8qFb2GNRyzcVKp0QIA48_uSYUkg",
+		"phone": "5.Sırada Puanı :55"
 	},
 	{
-		"name": "Baran Yıldırım ",
+		"name": "Göztepe ",
 		"image": "https://api.androidhive.info/json/images/leonardo.jpg",
-	  "phone": "+90 (571) 754 30 10"
+	"phone": "6.Sırada Puanı :49"
 	},
 	{
-		"name": "Gökhan Sarıcıoğlu",
+		"name": "SivasSpor",
 		"image": "https://api.androidhive.info/json/images/will.jpg",
-	  "phone": "+90 (541) 754 30 10"
+	 "phone": "7.Sırada Puanı :49"
 	},
 	{
-		"name": "Gökhan Şahin",
+		"name": "Kasımpaşa",
 		"image": "https://api.androidhive.info/json/images/russell.jpg",
-		"phone": "+90 (541) 754 30 10"
+		"phone": "8.Sırada Puanı :46"
 	},
 	{
-		"name": "Görkem Keskin",
+		"name": "KayseriSpor",
 		"image": "https://api.androidhive.info/json/images/brad.jpg",
-		"phone": "+90 (542) 754 30 10"
+		"phone": "9.Sırada Puanı :44"
 	},
 	{
-		"name": "Aleyna Tilki",
+		"name": "MalatayaSpor",
 		"image": "https://api.androidhive.info/json/images/angelina.jpg",
-		"phone": "(324) 754-5433"
+		"phone": "10.Sırada Puanı :42"
 	},
 	{
-		"name": "Ebru Yılmaz",
+		"name": "AkhisarBelediyeSpor",
 		"image": "https://api.androidhive.info/json/images/kate.jpg",
-		"phone": "+90 (541) 754 30 10"
+		"phone": "11.Sırada Puanı :42"
 	},
 	{
-		"name": "Cemil İpekçi",
+		"name": "AlanyaSpor",
 		"image": "https://api.androidhive.info/json/images/christian.jpg",
-		"phone": "+90 (541) 754 30 10"
+		"phone": "12.Sırada Puanı :40"
 	},
 	{
-		"name": "Müslüm Gürses",
+		"name": "Bursaspor",
 		"image": "https://api.androidhive.info/json/images/morgan.jpg",
-		"phone": "+90 (541) 754 30 10"
+		"phone": "13 Puanı :39"
 	},
 	{
-		"name": "Hakan Gürle",
+		"name": "Antalyaspor",
 		"image": "https://api.androidhive.info/json/images/hugh.jpg",
-		"phone": "+90 (541) 754 30 10"
+		"phone": "14.Sırada Puanı :38"
 	},
 	{
-		"name": "Engin Güner",
+		"name": "KonyaSpor",
 		"image": "https://api.androidhive.info/json/images/keanu.jpg",
-		"phone": "+90 (541) 754 30 10"
+		"phone": "15.Sırada Puanı :36"
 	},
 	{
-		"name": "Tufan Aydın ",
+		"name": "OsmanlıSpor ",
 		"image": "https://api.androidhive.info/json/images/tom.jpg",
-		"phone": "+90 (541) 754 30 10"
+		"phone": "16.Sırada Puanı :33"
 	},
 	{
-		"name": "Sıla Yıldız",
+		"name": "Gençlerbirliği",
 		"image": "https://api.androidhive.info/json/images/scarlett.jpg",
-		"phone": "+90 (541) 754 30 10"
+		"phone": "17.Sırada Puanı :33"
 	},
 	{
-		"name": "Recep Reis",
+		"name": "KarabükSpor",
 		"image": "https://api.androidhive.info/json/images/robert.jpg",
-	  "phone": "+90 (541) 754 30 10"
+	  "phone": "18.Sırada Puanı :12"
 	}
 ]
