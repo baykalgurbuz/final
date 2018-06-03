@@ -1,7 +1,7 @@
 [{
 		"name": "Galatasaray",
 		"image": "https://iaftm.tmgrup.com.tr/1627f5/632/314/10/0/569/278?u=https://iftm.tmgrup.com.tr/2018/06/02/galatasaraya-45-milyon-euro-kisitlamasi-1527893995152.jpeg",
-		"phone": "Lider /n Puanı"
+		"phone": "Lider Puanı"
 	},
 	{
 		"name": "Emirhan Aydın",
