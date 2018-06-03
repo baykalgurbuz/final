@@ -25,22 +25,22 @@
 	},
 	{
 		"name": "Göztepe ",
-		"image": "https://api.androidhive.info/json/images/leonardo.jpg",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiR99rhM67YBa6wcvefi0r0UoFXi0tbRI4XYCfEBVF4DTLQrEWvw",
 	"phone": "6.Sırada Puanı :49"
 	},
 	{
 		"name": "SivasSpor",
-		"image": "https://api.androidhive.info/json/images/will.jpg",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDhLv6DWCV_dTeOuxn04UVwaImBgH_5HfuprUWptYSMlsuOcf1",
 	 "phone": "7.Sırada Puanı :49"
 	},
 	{
 		"name": "Kasımpaşa",
-		"image": "https://api.androidhive.info/json/images/russell.jpg",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcyY26jL4uiTq64ULMJj_3C_ilKnQjixFMUW3Ki7WTZlVSco-b",
 		"phone": "8.Sırada Puanı :46"
 	},
 	{
 		"name": "KayseriSpor",
-		"image": "https://api.androidhive.info/json/images/brad.jpg",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIHAXMUB01lFzxoQ59RFAlT3znm-Wlz0D3mnhgdX6bihRC7c4UUg",
 		"phone": "9.Sırada Puanı :44"
 	},
 	{
